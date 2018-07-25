@@ -16,7 +16,7 @@ import SimpleHTTPServer
 import SocketServer
 import logging
 import sys
-import database_queries as q
+import simple_sql as q
 
 REPO_DEFAULT = "images"
 
